@@ -1,0 +1,5 @@
+Client ID:cd55524005d95f0
+
+Client secret:15b0ff8b22f811f6dbdd26ab0a7eae9c61ff79f4
+
+https://api.imgur.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&response_type=REQUESTED_RESPONSE_TYPE&state=APPLICATION_STATE
